@@ -1,3 +1,3 @@
 # Deep Learning Mastery
 
-Track your journey to expert-level deep learning.
+Track my journey to expert-level deep learning.
